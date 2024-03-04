@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "tsconfig-paths": "^4.2.0"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.1"
+  }
+}
